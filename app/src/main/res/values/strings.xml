@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Hera</string>
+
+
+    <string name="title1">Selamat Datang</string>
+    <string name="title2">Kirim Lokasi</string>
+    <string name="title3">Telepon 112</string>
+    <string name="title4">Tombol Panik</string>
+    <string name="description1">Terima kasih telah mengunduh aplikasi HERA. aplikasi ini akan membantu Anda saat terjadi kekerasan atau pelecehan.</string>
+    <string name="description2">Kirim lokasi anda kepada orang terdekat saat keadaan berbahaya.</string>
+    <string name="description3">Anda juga bisa menggunakan fitur layanan darurat di Kota Semarang yaitu 112.</string>
+    <string name="description4">Gunakan tombol panik untuk memberitahu orang sekitar apabila terjadi kekerasan atau pelecehan.</string>
+    <string name="nomor1">Cara Mengirim Lokasi Menggunakan \nWhatsapp</string>
+    <string name="klik_menu_whatsapp">Klik Menu Whatsapp</string>
+    <string name="ubah_mode_lokasi">Jika lokasi pada handphone berada di mode penghemat,\n maka ubah menjadi mode akurasi tinggi</string>
+    <string name="perizinan1">Izinkan beberapa perizinan di handphone terlebih dahulu</string>
+    <string name="tunggu1">Tunggu beberapa detik, maka akan terhubung otomatis \nke whatsapp</string>
+    <string name="buka_wa">Setelah berada di whatsapp, pilih kontak yang ingin \ndikirim pesannya</string>
+    <string name="kirim">Kirim lokasi</string>
+    <string name="cara_menelepon">Cara Menelepon Orang Terdekat Saat \nTerjadi Bahaya</string>
+    <string name="tambah_nomor">Tambah nomor telepon di fitur kontak, \nKemudian simpan</string>
+    <string name="telepon_sekarang_1">Kemudian kembali ke beranda dan klik tombol \nTelepon Sekarang dan pilih nomor</string>
+    <string name="Cara_telepon">Telepon</string>
+    <string name="catatan1">*Catatan : Orang yang ditelepon akan \nmendapatkan pesan singkat berisi minta pertolongan via SMS</string>
+    <string name="cara_layanan_darurat">Cara Menggunakan Layanan Darurat</string>
+    <string name="layanan_darurat_112">Layanan darurat atau nomor darurat di Kota Semarang \n adalah 112</string>
+    <string name="buka_menu_layanan_darurat">Buka menu nomor darurat</string>
+    <string name="klik_menu_112_untuk_menelepon">Klik menu 112 untuk menelepon</string>
+    <string name="catatan_2">*Catatan: Saat ini kamera hanya berfungsi bagian belakang saja. \n Dan kualitas hasil tangkapan belum stabil</string>
+    <string name="info_aplikasi">HERA berasal dari bahasa Polynesia yang berarti Wanita atau Pelindung. \nAplikasi HERA adalah aplikasi yang memiliki beberapa fitur dengan fitur utamanya yaitu mengirim pesan berisi lokasi pengguna saat dalam kejadian berbahaya. \nDisamping itu, Aplikasi HERA memiliki fitur menelepon orang terdekat dan menelepon nomor darurat di Kota Semarang yaitu 112.</string>
+</resources>
