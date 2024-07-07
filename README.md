@@ -1,6 +1,6 @@
 # HERA APP
 
-HERA application is an Android-based application that aims to help women who are in danger due to violence and others by using some of the features in this application.
+HERA application is an Android-based application that aims to help women who are in danger due to violence and others by using some of the features in this application. HERA application using Java programming language with local database storage.
 The main feature in this application is the feature of sending Whatsapp messages to the closest family members and relatives with the contents of the message in the form of the victim's location. for other features, there is a feature to call emergency services and a siren button.
 This application was created as a final year project at the university.
 
